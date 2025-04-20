@@ -2,7 +2,7 @@
 <resources>
     <style name="Theme.PaperPalette.MySplash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/black</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/dog</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/paper_palette_logo</item>
         <item name="postSplashScreenTheme">@style/Theme.PaperPalette</item>
     </style>
 </resources>
